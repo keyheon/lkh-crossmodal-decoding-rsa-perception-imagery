@@ -4,5 +4,6 @@ This PACKAGE includes analysis pipeline for "neural alignment across perception 
   To cross-task RSA, cross-task decoding, and, further, to neuro-behavioral correlation analysis.
 
 Ki Heon Lee, Affective Cognitive Lab (ACL), Korea University.
+
 Email: kiheon97@gmail.com
 
