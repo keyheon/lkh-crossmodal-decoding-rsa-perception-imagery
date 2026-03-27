@@ -1,6 +1,6 @@
-This PACKAGE is for the JOURNAL SUBMISSION.
+This PACKAGE includes analysis pipeline for "neural alignment across perception and imagery of emotional faces"--from preprocessing, first-level GLM, and group-level univariate analysis, to cross-task RSA, cross-task decoding, and, further, to neuro-behavioral correlation analysis.
 
-The usage of this PACKAGE is restricted to the researchers affiliated to the Affective Cognitive Lab (ACL), Korea University.
+Ki Heon Lee, Affective Cognitive Lab (ACL), Korea University.
 
-Ki Heon Lee (kiheon97@gmail.com)
+email: kiheon97@gmail.com
 
