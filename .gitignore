@@ -1,0 +1,58 @@
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# R
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+*.Rproj.user/
+.Rproj.user
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+*.egg-info/
+.pytest_cache/
+
+# MATLAB
+*.asv
+*.mat.bak
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Jupyter
+*.ipynb_checkpoints
+
+# Large data / intermediate outputs (adjust as needed)
+*.nii
+*.nii.gz
+*.mat
+*.npy
+*.npz
+*.pkl
+*.h5
+*.hdf5
+data/
+raw_data/
+derivatives/
+results/*.png
+results/*.pdf
+
+# Logs
+*.log
+
+# OS / system
+Thumbs.db
